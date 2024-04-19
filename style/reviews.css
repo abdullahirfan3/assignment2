@@ -1,0 +1,59 @@
+main {
+    margin: 5% 15%;
+    font-family: "BMW Helvetica";
+    color: #6a6a6a;
+    
+}
+
+table {
+    margin: auto;
+}
+
+td img {
+    display: inline;
+    width: 300px;
+    height: 190px;
+    
+}
+
+td {
+    padding: 0px;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+}
+
+p {
+    padding: 0px 100px;
+}
+
+h2 {
+    padding: 0px;
+    text-align: center;
+}
+
+hr {
+    color: #0166b1;
+    height: 5px;
+    background-color: #0166b1;
+}
+
+#partyText {
+    padding: 0px 400px;
+}
+
+footer {
+    display: block;
+    background-color: #0166b1;
+    text-align: center;
+    bottom: 0;
+    height: 120px;
+    width: 100%;
+    padding-top: 30px;
+    font-family: "BMW Helvetica";
+    color: #ffffff;
+}
+
+footer a {
+    color: #ffffff;
+}
